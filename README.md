@@ -13,10 +13,6 @@ Tasks are saved automatically in the browser using Local Storage.
 - Data persistence using Local Storage
 - Responsive and clean UI design
 
-## Demo
-
-![To-Do List Screenshot](images/screenshot.png)
-
 ## Installation
 
 Clone the repository and open `index.html` in your browser:
